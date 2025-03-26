@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow we will start Docker...... **** </h1>   
+         <h1> **** Today is the last session...... **** </h1>   
 	 
 
     </section>    
